@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SideJob_pluspro_website_public/static/css/main.da414969.css",
-    "main.js": "/SideJob_pluspro_website_public/static/js/main.49c7bab7.js",
+    "main.js": "/SideJob_pluspro_website_public/static/js/main.9510f0ff.js",
     "static/js/787.e2da8346.chunk.js": "/SideJob_pluspro_website_public/static/js/787.e2da8346.chunk.js",
     "static/media/05_background.png": "/SideJob_pluspro_website_public/static/media/05_background.a75d1d6ca0cf076354a3.png",
     "static/media/04_background.png": "/SideJob_pluspro_website_public/static/media/04_background.f640c533bcd8d0f1b504.png",
@@ -39,11 +39,11 @@
     "static/media/01_mobile.png": "/SideJob_pluspro_website_public/static/media/01_mobile.77f5e3c1bc1e068961ca.png",
     "index.html": "/SideJob_pluspro_website_public/index.html",
     "main.da414969.css.map": "/SideJob_pluspro_website_public/static/css/main.da414969.css.map",
-    "main.49c7bab7.js.map": "/SideJob_pluspro_website_public/static/js/main.49c7bab7.js.map",
+    "main.9510f0ff.js.map": "/SideJob_pluspro_website_public/static/js/main.9510f0ff.js.map",
     "787.e2da8346.chunk.js.map": "/SideJob_pluspro_website_public/static/js/787.e2da8346.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da414969.css",
-    "static/js/main.49c7bab7.js"
+    "static/js/main.9510f0ff.js"
   ]
 }
